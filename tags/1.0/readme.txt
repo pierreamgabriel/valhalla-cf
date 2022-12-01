@@ -1,5 +1,5 @@
 === Valhalla CF - Simple and Effective Contact Form with Google Maps ===
-Contributors: pierremacedo
+Contributors: pierreamgabriel
 Tags: contact, form, contact form, google maps
 Requires at least: 4.7
 Tested up to: 5.6

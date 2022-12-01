@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Valhalla CF 
-Plugin URI: https://github.com/pierremacedo/valhalla-cf
+Plugin URI: https://github.com/pierreamgabriel/valhalla-cf
 Description: A responsive contact form with Google Maps and CAPTCHA. It's simple but effective, and you can customize labels and messages in the WordPress Customizer.
 Version: 1.0
-Author: Pierre Macedo
+Author: Pierre Gabriel
 License: GPL
 
 =====================================================================================
-Copyright (C) 2020 Pierre Macedo
+Copyright (C) 2020 Pierre Gabriel
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
